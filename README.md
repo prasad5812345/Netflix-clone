@@ -25,3 +25,6 @@
 <h2>output: </h2><br>
 <b>Screenshots</b>
 
+
+![](https://github.com/prasad5812345/Netflix-clone/blob/main/output%20screenshots/clone%20output.png)
+
